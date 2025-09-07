@@ -55,4 +55,4 @@ Learned how to add dynamic font sizes with clamp()
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/davidGasanov)
+- Frontend Mentor - [@davidGasanov]
